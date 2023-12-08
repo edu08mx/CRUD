@@ -11,7 +11,6 @@ const port = 5000;
 connectToDatabase();
 
 app.use(expressLogger);
-
 app.use(bodyParser.json());
 
 app.use(express.json());
