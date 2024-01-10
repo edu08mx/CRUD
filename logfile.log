@@ -224,3 +224,17 @@
 {"level":"info","message":"GET /api/usuarios"}
 {"level":"info","message":"DELETE /api/deletarusuarios/1"}
 {"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"POST /api/cadastrarusuarios"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"PUT /api/alterarusuario/1"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"DELETE /api/deletarusuarios/1"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"POST /api/login"}
+{"level":"info","message":"POST /api/cadastrarusuarios"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"POST /api/login"}
+{"level":"info","message":"DELETE /api/deletarusuarios/1"}
+{"level":"info","message":"GET /api/usuarios"}
+{"level":"info","message":"GET /"}
