@@ -20,5 +20,4 @@ router.post('/login', async (req, res) => {
     return res.status(500).json({ erro: 'Erro ao realizar o login' });
   }
 });
-
 module.exports = router;
